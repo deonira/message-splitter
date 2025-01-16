@@ -21,7 +21,7 @@ To get started with the project, follow these steps:
    cd message-splitter
 3. Install the project dependencies using Poetry:
    ```
-   poetry install
+   poetry install --no-root 
 ## Usage
 Once the dependencies are installed, you can run the script to split HTML messages.
 To use the script, run the following command:
